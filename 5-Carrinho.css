@@ -1,0 +1,26 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-weight: normal;
+  letter-spacing: normal;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 852px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 13px auto 60px 0;
+  }
+}@font-face {
+  font-family: 'nexa-bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/nexa-bold.ttf);
+}
